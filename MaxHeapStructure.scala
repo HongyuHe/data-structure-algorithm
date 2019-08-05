@@ -85,8 +85,6 @@ class MaxHeap(array: Array[Double]) {
         }
         _size = tmp
     }
-
-
 }
 
 object MaxHeapStructure {
